@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>ojo2.png</file>
+  </qresource>
+</RCC>
